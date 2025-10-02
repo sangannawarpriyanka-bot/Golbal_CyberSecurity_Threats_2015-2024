@@ -4,6 +4,14 @@ This project analyzes **global cybersecurity threats** and visualizes key metric
 
 ---
 
+## **7️⃣ Key Insights**
+
+- ⚠️ **Most Common Attacks:** Phishing and Ransomware  
+- 🏢 **Industries Impacted Most:** Retail & Education  
+- 🕵️ **Top Attack Sources:** Hacker groups  
+- ⏱️ **Resolution Time:** Varies by country, showing efficiency gaps
+---
+
 ## **📊 Dashboard Overview**
 
 ![Dashboard Screenshot](path/to/your-dashboard-screenshot.png)  
