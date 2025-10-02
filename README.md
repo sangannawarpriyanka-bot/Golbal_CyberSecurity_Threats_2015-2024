@@ -4,6 +4,17 @@ This project analyzes global cybersecurity threats and visualizes key metrics us
 
 ---
 
+---
+
+## **⚡ Technologies Used**
+
+- Microsoft Excel (PivotTables, Charts, Conditional Formatting)  
+- Power Query for data cleaning and preparation  
+
+---
+
+
+
 ## **📈 Dashboard Screenshot**
 
 ![Dashboard Screenshot](path/to/your-dashboard-screenshot.png)
