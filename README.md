@@ -25,8 +25,8 @@ The dataset contains 10 fields with records of cyberattacks from multiple countr
 
 Column Name                                      	          Description
 ---
-Country	                                         Country where the attack occurred
-Year	                                           Year of the incident (2015–2024)
+Country	                         -                Country where the attack occurred
+Year	                                          Year of the incident (2015–2024)
 Attack_Type	                                     Type of cyberattack (Phishing, Ransomware, DDoS, etc.)
 Target_Industry	                                 Industry targeted (Banking, IT, Healthcare, etc.)
 Financial_Loss_Million_USD	                     Estimated financial loss (in millions of USD)
