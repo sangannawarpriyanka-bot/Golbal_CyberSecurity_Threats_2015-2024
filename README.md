@@ -1,20 +1,23 @@
 🌍 Global Cybersecurity Threats (2015–2024) – Excel Data Analysis Project
-📌 Project Overview
+---
+📌 Project Overview:
 
-This project analyzes global cybersecurity threats between 2015–2024 using Excel.
-The dataset includes details about attack types, target industries, financial losses, affected users, attack sources, vulnerabilities, defense mechanisms, and resolution times.
+This project analyzes global cybersecurity threats between 2015–2024 using Excel. The dataset includes details about attack types,
+target industries, financial losses, affected users, attack sources, vulnerabilities, defense mechanisms, and resolution times.
 
 The goal of this project is to:
 
-Understand global trends in cyberattacks
+-- Understand global trends in cyberattacks
 
-Identify the most damaging attack types and industries
+-- Identify the most damaging attack types and industries
 
-Evaluate the effectiveness of defense mechanisms
+-- Evaluate the effectiveness of defense mechanisms
 
-Visualize cybersecurity insights using Pivot Tables, Charts, and Dashboards
+-- Visualize cybersecurity insights using Pivot Tables, Charts, and Dashboards.
 
-📊 Dataset Description
+---
+
+📊 Dataset Description:
 
 The dataset contains 10 fields with records of cyberattacks from multiple countries.
 
@@ -28,8 +31,9 @@ Users_Affected	Number of affected users
 Attack_Source	Source of attack (Hacker Group, Nation-state, Insider, etc.)
 Security_Vulnerability_Type	Exploited vulnerability (Weak Passwords, Unpatched Software, etc.)
 Defense_Mechanism_Used	Defense strategy used (Firewall, VPN, AI-based Detection, etc.)
-Incident_Resolution_Hours	Time taken to resolve the attack (in hours)
-🔑 KPIs (Key Performance Indicators)
+Incident_Resolution_Hours	Time taken to resolve the attack (in hours).
+
+🔑 KPIs (Key Performance Indicators):
 
 💰 Total Financial Loss (2015–2024)
 
@@ -45,17 +49,19 @@ Incident_Resolution_Hours	Time taken to resolve the attack (in hours)
 
 ⏱️ Average Incident Resolution Time by attack type
 
-📈 Dashboard Features
+---
+
+📈 Dashboard Features:
 
 The interactive Excel Dashboard includes:
 
-Line Chart: Cyberattack financial losses over time (2015–2024)
+-- Line Chart: Cyberattack financial losses over time (2015–2024)
 
-Bar Chart: Top 5 countries by financial loss
+-- Bar Chart: Top 5 countries by financial loss
 
-Pie Chart: Attack type distribution
+-- Pie Chart: Attack type distribution
 
-Map Chart: Global attack spread
+-- Map Chart: Global attack spread
 
 Cards/KPIs: Total Loss, Avg Resolution Time, Users Affected
 
@@ -63,11 +69,13 @@ Slicers/Filters: Year, Country, Attack Type
 
 🛠️ Tools Used
 
-Microsoft Excel
+-- Microsoft Excel
 
-Power Query (for cleaning & transformation)
+-- Power Query (for cleaning & transformation)
 
-Pivot Tables & Charts
+---
+
+Pivot Tables & Charts:
 
 Excel Dashboard (interactive visualization)
 
@@ -75,22 +83,28 @@ Excel Dashboard (interactive visualization)
 
 (Insert screenshots of your Excel dashboard here once created)
 
-🚀 How to Use
+---
 
-Download the dataset from dataset/cybersecurity_threats.xlsx
+🚀 How to Use:
 
-Open the dashboard file from dashboard/cybersecurity_dashboard.xlsx
+-- Download the dataset from dataset/cybersecurity_threats.xlsx
 
-Use filters (Year, Country, Attack Type) to explore insights
+-- Open the dashboard file from dashboard/cybersecurity_dashboard.xlsx
 
-📢 Insights (Sample Highlights)
+-- Use filters (Year, Country, Attack Type) to explore insights
 
-Ransomware & DDoS cause the highest financial losses
+---
 
-Healthcare & IT industries are most frequently targeted
+📢 Insights (Sample Highlights):
 
-Insider attacks take longer to resolve compared to other sources
+-- Ransomware & DDoS cause the highest financial losses
 
-AI-based Detection has lower average resolution times than traditional defenses
+-- Healthcare & IT industries are most frequently targeted
+
+-- Insider attacks take longer to resolve compared to other sources
+
+-- AI-based Detection has lower average resolution times than traditional defenses.
+
+---
 
 ✨ This project provides valuable insights into cybersecurity trends, useful for analysts, policymakers, and IT security professionals.
