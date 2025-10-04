@@ -1,74 +1,96 @@
-# 🌐 Global Cybersecurity Threats Dashboard (2015–2024)
+🌍 Global Cybersecurity Threats (2015–2024) – Excel Data Analysis Project
+📌 Project Overview
 
-This project analyzes **global cybersecurity threats** and visualizes key metrics using **Excel** and **Power Query**. The dashboard provides interactive insights into attack types, affected industries, financial losses, and incident resolution efficiency.  
+This project analyzes global cybersecurity threats between 2015–2024 using Excel.
+The dataset includes details about attack types, target industries, financial losses, affected users, attack sources, vulnerabilities, defense mechanisms, and resolution times.
 
----
+The goal of this project is to:
 
-## **7️⃣ Key Insights**
+Understand global trends in cyberattacks
 
-- ⚠️ **Most Common Attacks:** Phishing and Ransomware  
-- 🏢 **Industries Impacted Most:** Retail & Education  
-- 🕵️ **Top Attack Sources:** Hacker groups  
-- ⏱️ **Resolution Time:** Varies by country, showing efficiency gaps
----
+Identify the most damaging attack types and industries
 
-## **📊 Dashboard Overview**
+Evaluate the effectiveness of defense mechanisms
 
-![Dashboard Screenshot](path/to/your-dashboard-screenshot.png)  
-> Replace with your actual dashboard screenshot
+Visualize cybersecurity insights using Pivot Tables, Charts, and Dashboards
 
----
+📊 Dataset Description
 
-## **1️⃣ KPI CARDS**
+The dataset contains 10 fields with records of cyberattacks from multiple countries.
 
-| KPI | Description | Emoji |
-|-----|------------|-------|
-| **Total Financial Loss** | Sum of all financial losses from attacks | 💰 |
-| **Total Users Affected** | Total number of users impacted | 👥 |
-| **Average Incident Resolution Time** | Avg hours to resolve incidents | ⏱️ |
-| **Most Frequent Attack Type** | Attack type occurring most frequently | ⚠️ |
-| **Top Attack Source** | Source responsible for the most attacks | 🕵️ |
+Column Name	Description
+Country	Country where the attack occurred
+Year	Year of the incident (2015–2024)
+Attack_Type	Type of cyberattack (Phishing, Ransomware, DDoS, etc.)
+Target_Industry	Industry targeted (Banking, IT, Healthcare, etc.)
+Financial_Loss_Million_USD	Estimated financial loss (in millions of USD)
+Users_Affected	Number of affected users
+Attack_Source	Source of attack (Hacker Group, Nation-state, Insider, etc.)
+Security_Vulnerability_Type	Exploited vulnerability (Weak Passwords, Unpatched Software, etc.)
+Defense_Mechanism_Used	Defense strategy used (Firewall, VPN, AI-based Detection, etc.)
+Incident_Resolution_Hours	Time taken to resolve the attack (in hours)
+🔑 KPIs (Key Performance Indicators)
 
----
+💰 Total Financial Loss (2015–2024)
 
-## **2️⃣ Trend Analysis**
+👥 Total Users Affected globally
 
-- **📈 Financial Loss Over Years:** Line chart showing total loss per year  
-- **👤 Number of Users Affected Over Years:** Line chart showing trend in affected users  
+📈 Top 5 Countries by Financial Loss
 
-![Trend Analysis Screenshot](path/to/trend-analysis.png)
+🔥 Most Common Attack Types (Phishing, Ransomware, DDoS, etc.)
 
----
+🏢 Most Targeted Industries (IT, Healthcare, Banking, etc.)
 
-## **3️⃣ Distribution Analysis**
+🛡️ Most Effective Defense Mechanisms (lowest avg resolution time)
 
-- **🛡️ Attack Type Frequency:** Bar chart showing count of incidents by attack type  
-- **🏭 Target Industry Financial Loss:** Column chart showing financial impact per industry  
+⏱️ Average Incident Resolution Time by attack type
 
-![Distribution Analysis Screenshot](path/to/distribution-analysis.png)
+📈 Dashboard Features
 
----
+The interactive Excel Dashboard includes:
 
-## **4️⃣ KPI Indicators**
+Line Chart: Cyberattack financial losses over time (2015–2024)
 
-- **✅ Incident Resolution Efficiency:** Table with conditional formatting (Green = Good, Red = Needs Improvement)  
-- **⚠️ Financial Loss Risk:** Table with conditional formatting (Red = High, Green = Normal)  
+Bar Chart: Top 5 countries by financial loss
 
-![KPI Indicators Screenshot](path/to/kpi-indicators.png)
+Pie Chart: Attack type distribution
 
----
+Map Chart: Global attack spread
 
-## **5️⃣ Interactive Filters / Slicers**
+Cards/KPIs: Total Loss, Avg Resolution Time, Users Affected
 
-- Users can filter dynamically by:
-  - **📅 Year**  
-  - **🌎 Country**  
-  - **⚔️ Attack Type**  
-  - **🏢 Industry**  
+Slicers/Filters: Year, Country, Attack Type
 
-![Filters Screenshot](path/to/filters.png)
+🛠️ Tools Used
 
----
+Microsoft Excel
 
-## **6️⃣ Dashboard Layout**  
+Power Query (for cleaning & transformation)
 
+Pivot Tables & Charts
+
+Excel Dashboard (interactive visualization)
+
+📷 Dashboard Preview
+
+(Insert screenshots of your Excel dashboard here once created)
+
+🚀 How to Use
+
+Download the dataset from dataset/cybersecurity_threats.xlsx
+
+Open the dashboard file from dashboard/cybersecurity_dashboard.xlsx
+
+Use filters (Year, Country, Attack Type) to explore insights
+
+📢 Insights (Sample Highlights)
+
+Ransomware & DDoS cause the highest financial losses
+
+Healthcare & IT industries are most frequently targeted
+
+Insider attacks take longer to resolve compared to other sources
+
+AI-based Detection has lower average resolution times than traditional defenses
+
+✨ This project provides valuable insights into cybersecurity trends, useful for analysts, policymakers, and IT security professionals.
