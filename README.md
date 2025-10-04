@@ -23,18 +23,18 @@ The goal of this project is to:
 
 The dataset contains 10 fields with records of cyberattacks from multiple countries.
 
-Column Name                                      	          Description
----
-Country	                          |               Country where the attack occurred
-Year	                                           Year of the incident (2015–2024)
-Attack_Type	                                     Type of cyberattack (Phishing, Ransomware, DDoS, etc.)
-Target_Industry	                                 Industry targeted (Banking, IT, Healthcare, etc.)
-Financial_Loss_Million_USD	                     Estimated financial loss (in millions of USD)
-Users_Affected	                                 Number of affected users
-Attack_Source                                    Source of attack (Hacker Group, Nation-state, Insider, etc.)
-Security_Vulnerability_Type	                     Exploited vulnerability (Weak Passwords, Unpatched Software, etc.)
-Defense_Mechanism_Used	                         Defense strategy used (Firewall, VPN, AI-based Detection, etc.)
-Incident_Resolution_Hours                      	 Time taken to resolve the attack (in hours).
+| Column Name                | Description |
+|-----------------------------|-------------|
+| **Country**                 | Country where the attack occurred |
+| **Year**                    | Year of the incident (2015–2024) |
+| **Attack_Type**             | Type of cyberattack (Phishing, Ransomware, DDoS, etc.) |
+| **Target_Industry**         | Industry targeted (Banking, IT, Healthcare, etc.) |
+| **Financial_Loss_Million_USD** | Estimated financial loss (in millions of USD) |
+| **Users_Affected**          | Number of affected users |
+| **Attack_Source**           | Source of attack (Hacker Group, Nation-state, Insider, etc.) |
+| **Security_Vulnerability_Type** | Exploited vulnerability (Weak Passwords, Unpatched Software, etc.) |
+| **Defense_Mechanism_Used**  | Defense strategy used (Firewall, VPN, AI-based Detection, etc.) |
+| **Incident_Resolution_Hours** | Time taken to resolve the attack (in hours) |
 
 ---
 
