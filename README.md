@@ -1,6 +1,7 @@
 🌍 Global Cybersecurity Threats (2015–2024) – Excel Data Analysis Project
 ---
-#📌 Project Overview:
+📌 Project Overview:
+--
 
 This project analyzes global cybersecurity threats between 2015–2024 using Excel. The dataset includes details about attack types,
 target industries, financial losses, affected users, attack sources, vulnerabilities, defense mechanisms, and resolution times.
@@ -17,7 +18,8 @@ The goal of this project is to:
 
 ---
 
-#📊 Dataset Description:
+📊 Dataset Description:
+--
 
 The dataset contains 10 fields with records of cyberattacks from multiple countries.
 
@@ -36,7 +38,8 @@ Incident_Resolution_Hours                      	 Time taken to resolve the attac
 
 ---
 
-#🔑 KPIs (Key Performance Indicators):
+🔑 KPIs (Key Performance Indicators):
+--
 
 💰 Total Financial Loss (2015–2024)
 
@@ -54,7 +57,8 @@ Incident_Resolution_Hours                      	 Time taken to resolve the attac
 
 ---
 
-#📈 Dashboard Features:
+📈 Dashboard Features:
+--
 
 The interactive Excel Dashboard includes:
 
@@ -71,7 +75,8 @@ The interactive Excel Dashboard includes:
 - Slicers/Filters: Year, Country, Attack Type
 ---
 
-#🛠️ Tools Used:
+🛠️ Tools Used:
+--
 
 - Microsoft Excel
 
@@ -83,13 +88,15 @@ The interactive Excel Dashboard includes:
 
 ---
 
-#📷 Dashboard Preview:
+📷 Dashboard Preview:
+--
 
 (Insert screenshots of your Excel dashboard here once created)
 
 ---
 
-#🚀 How to Use:
+🚀 How to Use:
+--
 
 - Download the dataset from dataset/cybersecurity_threats.xlsx
 
@@ -99,7 +106,8 @@ The interactive Excel Dashboard includes:
 
 ---
 
-#📢 Insights (Sample Highlights):
+📢 Insights (Sample Highlights):
+--
 
 - Ransomware & DDoS cause the highest financial losses
 
