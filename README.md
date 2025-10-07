@@ -44,15 +44,15 @@ The dataset contains 10 fields with records of cyberattacks from multiple countr
 🔑 KPIs (Key Performance Indicators):
 --
 
--💰 Total Financial Loss: $1.514 million USD
+- 💰 Total Financial Loss: $1.514 million USD
 
--👥 Total Users Affected: 1.51 billion users
+- 👥 Total Users Affected: 1.51 billion users
 
--⚠️ Top Attack Type: DDoS (27.63%)
+- ⚠️ Top Attack Type: DDoS (27.63%)
 
--⏱️ Average Resolution Time: 72 hours
+- ⏱️ Average Resolution Time: 72 hours
 
--🛡️ Most Common Defense Mechanism: Antivirus (628 incidents)
+- 🛡️ Most Common Defense Mechanism: Antivirus (628 incidents)
 
 ---
 
