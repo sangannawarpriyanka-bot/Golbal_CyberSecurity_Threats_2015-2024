@@ -67,11 +67,9 @@ The interactive Excel Dashboard includes:
 
 - Pie Chart: Attack type distribution
 
-- Map Chart: Global attack spread
-
 - Cards/KPIs: Total Loss, Avg Resolution Time, Users Affected
 
-- Slicers/Filters: Year, Country, Attack Type
+- Slicers/Filters: Year, Country
 ---
 
 🛠️ Tools Used:
@@ -109,11 +107,11 @@ The interactive Excel Dashboard includes:
 📢 Insights (Sample Highlights):
 --
 
-- Ransomware & DDoS cause the highest financial losses
+- DDoS & Phishing cause the highest financial losses.
 
-- Healthcare & IT industries are most frequently targeted
+- IT & Banking industries are most frequently targeted.
 
-- Insider attacks take longer to resolve compared to other sources
+- Insider attacks take longer to resolve compared to other sources.
 
 - AI-based Detection has lower average resolution times than traditional defenses.
 
