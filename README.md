@@ -88,7 +88,8 @@ The interactive Excel Dashboard includes:
 📷 Dashboard Preview:
 --
 
-<img width="1157" height="592" alt="Screenshot 2025-10-07 113443" src="https://github.com/user-attachments/assets/6f2fd171-834f-4097-9f74-cd18bb8fd7a2" />
+<img width="578" height="296" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/a74a5c81-63df-4b2e-a5df-bbde83ac00e3" />
+
 
 
 ---
