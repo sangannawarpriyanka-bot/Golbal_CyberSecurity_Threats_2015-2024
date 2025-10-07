@@ -44,19 +44,15 @@ The dataset contains 10 fields with records of cyberattacks from multiple countr
 🔑 KPIs (Key Performance Indicators):
 --
 
-💰 Total Financial Loss (2015–2024)
+-💰 Total Financial Loss: $1.514 million USD
 
-👥 Total Users Affected globally
+-👥 Total Users Affected: 1.51 billion users
 
-📈 Top 5 Countries by Financial Loss
+-⚠️ Top Attack Type: DDoS (27.63%)
 
-🔥 Most Common Attack Types (Phishing, Ransomware, DDoS, etc.)
+-⏱️ Average Resolution Time: 72 hours
 
-🏢 Most Targeted Industries (IT, Healthcare, Banking, etc.)
-
-🛡️ Most Effective Defense Mechanisms (lowest avg resolution time)
-
-⏱️ Average Incident Resolution Time by attack type
+-🛡️ Most Common Defense Mechanism: Antivirus (628 incidents)
 
 ---
 
