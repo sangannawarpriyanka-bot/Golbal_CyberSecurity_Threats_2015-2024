@@ -91,7 +91,8 @@ The interactive Excel Dashboard includes:
 📷 Dashboard Preview:
 --
 
-(Insert screenshots of your Excel dashboard here once created)
+<img width="578" height="293" alt="Dashboard Project2" src="https://github.com/user-attachments/assets/1f843f2b-773f-4dd8-acc8-2040adcc2723" />
+
 
 ---
 
